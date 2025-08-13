@@ -1,3 +1,11 @@
 .venv/
 __pycache__/
 sources/
+outputs/
+
+.DS_Store
+Thumbs.db
+*.pyc
+*.pyo
+*.pyd
+*.log
